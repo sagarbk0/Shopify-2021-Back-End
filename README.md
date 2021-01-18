@@ -1,2 +1,2 @@
-# Shopify-2021-Back-End
-Created with CodeSandbox
+Copy the URL and view it in a separate tab for best results.
+If it shows any errors, try reloading.

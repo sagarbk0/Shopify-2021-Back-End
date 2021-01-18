@@ -1,2 +1,5 @@
-Copy the URL and view it in a separate tab for best results.
-If it shows any errors, try reloading.
+# Shopify 2021 Back-End Challenge
+
+Hosted at https://imagenow.herokuapp.com/
+
+Back-end ReactJS application that allows users to browse images (by referencing the Bing Image Search API) and add them to their collection.
